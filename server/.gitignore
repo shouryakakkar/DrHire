@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+jspm_packages/
+.pnp.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+.pid
+.seed
+.lock-wscript
+
+# Coverage/Build
+coverage/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDEs/OS
+.DS_Store
+.vscode/
+.idea/
